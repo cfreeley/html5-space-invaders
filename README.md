@@ -6,6 +6,6 @@ An example of both HTML5 Game Design with enchant.js, and [pixel-sprite-generato
 * Mobile Compatible
 * 100% Procedurally generated Sprites
  
-[View it in action here][
+[View it in action here][http://www.freeley.me/#/space-invaders]
 
 [repo]:https://github.com/cfreeley/pixel-sprite-generator
