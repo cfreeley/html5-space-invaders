@@ -1,0 +1,33 @@
+{
+  "name": "pixel-sprite-generator-cfreeley",
+  "main": "pixel-sprite-generator.js",
+  "version": "0.0.3",
+  "homepage": "https://github.com/cfreeley/pixel-sprite-generator",
+  "authors": [
+    "Zelimir Fedoran <zelimir.fedoran@gmail.com>",
+    "Chris Freeley <christopher.freeley+github@gmail.com"
+  ],
+  "description": "A procedural pixel sprite generator",
+  "keywords": [
+    "sprite",
+    "gamedev",
+    "procedural"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "76a24834daf77c3a32780e2f39e9311bbd58fdfd"
+  },
+  "_source": "git://github.com/cfreeley/pixel-sprite-generator.git",
+  "_target": "~0.0.3",
+  "_originalSource": "pixel-sprite-generator-cfreeley"
+}

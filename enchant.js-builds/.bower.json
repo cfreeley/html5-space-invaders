@@ -1,0 +1,15 @@
+{
+  "name": "enchant.js-builds",
+  "homepage": "https://github.com/uei/enchant.js-builds",
+  "version": "0.8.2",
+  "_release": "0.8.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.8.2",
+    "commit": "3ffd5d45b374de4d1a64e4d6b7307da60fc46c30"
+  },
+  "_source": "git://github.com/uei/enchant.js-builds.git",
+  "_target": "~0.8.2",
+  "_originalSource": "enchant.js-builds",
+  "_direct": true
+}
